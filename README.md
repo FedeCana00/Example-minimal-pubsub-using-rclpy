@@ -8,6 +8,7 @@ In this example a talker sends the time in microseconds to the listener. This wi
 <br>
 Inside the folder run
 ```
+source /opt/ros/foxy/setup.bash
 colcon build
 source/install/local_setup.bash
 ```
